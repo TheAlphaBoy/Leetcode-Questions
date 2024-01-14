@@ -1,1 +1,2 @@
-In this Repository i have added some Leetcode Easy level questions that i have solved
+#Leetcode_Questions
+In this Repository i have added Leetcode questions that i have solved on Leetcode.
