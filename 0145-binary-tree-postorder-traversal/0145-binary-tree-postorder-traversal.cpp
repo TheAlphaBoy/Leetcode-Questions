@@ -11,21 +11,53 @@
  */
 class Solution {
 public:
+
+// Sol 1 : Recursive Approach
+
+    // vector<int> postorderTraversal(TreeNode* root) {
+
+    //     vector<int>postorder;
+
+    //     solve(root,postorder);
+    //     return postorder;        
+    // }
+    // void solve(TreeNode* root,vector<int>&postorder){
+    //     //  Edge case
+    //     if(root==NULL){
+    //         return;
+    //     }
+
+    //     solve(root->left,postorder);
+    //     solve(root->right,postorder);
+    //     postorder.push_back(root->val);
+    // }
+
+    // Sol 2 : Using 2 Stack Approach
+
     vector<int> postorderTraversal(TreeNode* root) {
 
         vector<int>postorder;
-
-        solve(root,postorder);
-        return postorder;        
-    }
-    void solve(TreeNode* root,vector<int>&postorder){
-        //  Edge case
-        if(root==NULL){
-            return;
+        // Edge case
+        if(root == NULL){
+            return postorder;
         }
-
-        solve(root->left,postorder);
-        solve(root->right,postorder);
-        postorder.push_back(root->val);
+        stack<TreeNode*>s1,s2;
+        s1.push(root);
+        while(!s1.empty()){
+            TreeNode* topnode = s1.top();
+            s1.pop();
+            s2.push(topnode);
+            if(topnode->left!=NULL){
+                s1.push(topnode->left);
+            }
+            if(topnode->right!=NULL){
+                s1.push(topnode->right);
+            }
+        }
+        while(!s2.empty()){
+            postorder.push_back(s2.top()->val);
+            s2.pop();
+        }
+        return postorder;
     }
 };
