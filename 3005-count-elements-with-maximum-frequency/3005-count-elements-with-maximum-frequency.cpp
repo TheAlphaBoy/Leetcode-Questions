@@ -15,5 +15,54 @@ public:
             }
         }
         return (count*ans);
+
+        // Revision : 
+
+        // unordered_map<int,int>mp;
+        // for(auto it : nums){
+        //     mp[it]++;
+        // }
+        // int maxi = INT_MIN;
+        // for(auto it : mp){
+        //     maxi = max(maxi,it.second);
+        // }
+        // int cnt=0;
+        // for(auto it : mp){
+        //     if(maxi == it.second){
+        //         ++cnt;
+        //     }
+        // }
+        // return maxi*cnt;
     }
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
