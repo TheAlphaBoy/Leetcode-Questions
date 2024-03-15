@@ -12,29 +12,29 @@
 class Solution {
 public:
 
-    bool isBalanced(TreeNode* root) {
+//     bool isBalanced(TreeNode* root) {
 
-        // Sol 1 : Recursive solution O(N*N)
+//         // Sol 1 : Recursive solution O(N*N)
 
-        // Ref : https://youtu.be/PlpfA6-Ga5A?si=PMuyBG4H7wHr7s4F
+//         // Ref : https://youtu.be/PlpfA6-Ga5A?si=PMuyBG4H7wHr7s4F
 
-        int height = 1;
-        bst(root,height);
-        if(height) return true;
-        return false;
-}
-int bst(TreeNode* root,int &height){
-    // BC
-    if(root==NULL){
-        return 0;
-    }
-    int leftHeight = bst(root->left,height)+1;
-    int rightHeight = bst(root->right,height)+1;
-    if(abs(leftHeight-rightHeight)>1){
-        height=0;
-    }
-    return max(leftHeight,rightHeight);
-}
+//         int height = 1;
+//         bst(root,height);
+//         if(height) return true;
+//         return false;
+// }
+// int bst(TreeNode* root,int &height){
+//     // BC
+//     if(root==NULL){
+//         return 0;
+//     }
+//     int leftHeight = bst(root->left,height)+1;
+//     int rightHeight = bst(root->right,height)+1;
+//     if(abs(leftHeight-rightHeight)>1){
+//         height=0;
+//     }
+//     return max(leftHeight,rightHeight);
+// }
     
 
 // Ref : https://leetcode.com/problems/balanced-binary-tree/solutions/4343377/using-dp-on-trees-aditya-verma-template-beats-95
@@ -65,5 +65,30 @@ int bst(TreeNode* root,int &height){
     //     solve(root,ans);
     //     return ans;
     // }
+
+    bool isBalanced(TreeNode* root) {
+
+    // sol 3 : Using DFS (Striver's approach)
+    // TC => O(N), as it is traversing a recursive call
+    // SC => O(n) , as it takes extra auxilary space as implicit stack (or recursive stack)
+
+    return dfsHeight(root) != -1;
+
+    }
+    int dfsHeight(TreeNode* &root){
+        // BC
+        if(root == NULL){
+            return true;
+        }
+        int lh = dfsHeight(root->left);
+        if(lh==-1) return -1;
+        int rh = dfsHeight(root->right);
+        if(rh==-1) return -1;
+
+        if(abs(lh-rh)>1){
+            return -1;
+        }
+        return max(lh,rh)+1;
+    }
     
 };
