@@ -41,15 +41,27 @@ public:
 
         // ....... Recursive Method........
         //Base case
+        // if(head==NULL || head->next==NULL){
+        //     return head;
+        // }
+        // ListNode* newhead=reverseList(head->next);
+        // ListNode* temp=head->next;
+        // temp->next=head;
+        // head->next=NULL;
+
+        // return newhead;
+
+        // Revision :
+
+        // BC 
         if(head==NULL || head->next==NULL){
             return head;
         }
-        ListNode* newhead=reverseList(head->next);
-        ListNode* temp=head->next;
-        temp->next=head;
+        ListNode* newHead=reverseList(head->next);
+        ListNode* front=head->next;
+        front->next=head;
         head->next=NULL;
-
-        return newhead;
+        return newHead;
     }
 };
 
