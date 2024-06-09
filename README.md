@@ -29,12 +29,14 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0409-longest-palindrome](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0876-hand-of-straights) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1044-find-common-characters) |
 # Array
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0876-hand-of-straights) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1044-find-common-characters) |
 # Sorting
 |  |
@@ -44,3 +46,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0648-replace-words) |
+# Prefix Sum
+|  |
+| ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
