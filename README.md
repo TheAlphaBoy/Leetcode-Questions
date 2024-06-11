@@ -26,6 +26,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 # Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0409-longest-palindrome](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0876-hand-of-straights) |
@@ -34,6 +35,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 # Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0648-replace-words](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -56,3 +58,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1137-height-checker) |
+# Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0073-set-matrix-zeroes) |
