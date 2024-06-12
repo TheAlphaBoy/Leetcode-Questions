@@ -36,6 +36,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0118-pascals-triangle) |
 | [0648-replace-words](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -62,3 +63,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0073-set-matrix-zeroes) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0118-pascals-triangle) |
