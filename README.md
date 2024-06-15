@@ -35,6 +35,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 # Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0118-pascals-triangle) |
 | [0648-replace-words](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0648-replace-words) |
@@ -66,4 +67,9 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 # Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0118-pascals-triangle) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0053-maximum-subarray) |
