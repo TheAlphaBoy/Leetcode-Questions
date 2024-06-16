@@ -15,6 +15,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0344-reverse-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
@@ -37,6 +38,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | ------- |
 | [0053-maximum-subarray](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0118-pascals-triangle) |
 | [0648-replace-words](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0876-hand-of-straights) |
@@ -46,6 +48,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1137-height-checker) |
 # Trie
