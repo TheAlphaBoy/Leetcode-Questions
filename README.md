@@ -40,6 +40,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0073-set-matrix-zeroes](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0648-replace-words](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -72,6 +73,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | ------- |
 | [0053-maximum-subarray](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 # Divide and Conquer
 |  |
 | ------- |
