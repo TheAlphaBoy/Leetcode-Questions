@@ -36,6 +36,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 # Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0075-sort-colors) |
@@ -67,6 +68,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 # Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0073-set-matrix-zeroes) |
 # Dynamic Programming
 |  |
@@ -78,3 +80,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0053-maximum-subarray) |
+# Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0048-rotate-image) |
