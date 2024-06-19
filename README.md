@@ -38,6 +38,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | ------- |
 | [0048-rotate-image](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0118-pascals-triangle) |
@@ -50,6 +51,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 # Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1137-height-checker) |
