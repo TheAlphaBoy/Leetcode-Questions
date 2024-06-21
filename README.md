@@ -18,6 +18,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0075-sort-colors](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0344-reverse-string) |
+| [0908-middle-of-the-linked-list](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Greedy
 |  |
@@ -89,3 +90,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0048-rotate-image) |
+# Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0908-middle-of-the-linked-list) |
