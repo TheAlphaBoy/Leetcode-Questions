@@ -15,6 +15,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 # Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0344-reverse-string) |
@@ -93,4 +94,5 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 # Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0908-middle-of-the-linked-list](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0908-middle-of-the-linked-list) |
