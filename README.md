@@ -90,9 +90,15 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 # Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0048-rotate-image) |
 # Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0908-middle-of-the-linked-list](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0908-middle-of-the-linked-list) |
+# Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0002-add-two-numbers) |
