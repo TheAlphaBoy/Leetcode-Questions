@@ -45,6 +45,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0073-set-matrix-zeroes](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0648-replace-words](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0648-replace-words) |
@@ -102,3 +103,11 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0002-add-two-numbers) |
+# Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0090-subsets-ii) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0090-subsets-ii) |
