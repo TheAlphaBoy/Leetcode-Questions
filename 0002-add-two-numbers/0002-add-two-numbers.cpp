@@ -38,6 +38,25 @@ public:
             curr->next = new ListNode(1);
         }
         
-        return dummy->next;
+        return dummy->next;        
+
     }
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
