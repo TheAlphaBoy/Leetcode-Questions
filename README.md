@@ -127,3 +127,18 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0075-sort-colors) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0075-sort-colors) |
+<!---LeetCode Topics End-->
