@@ -135,16 +135,19 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0048-rotate-image](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
