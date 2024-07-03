@@ -137,6 +137,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0075-sort-colors](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0948-sort-an-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0948-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,6 +149,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0056-merge-intervals](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0088-merge-sorted-array) |
+| [0948-sort-an-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,4 +162,28 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0048-rotate-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0948-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0948-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
