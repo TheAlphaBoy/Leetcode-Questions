@@ -1,9 +1,8 @@
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
-        // sorting method
-        // sort(nums.begin(),nums.end()); 
-        // counting method
+
+        // Sol 1 : counting method
         // int zeroes,ones,twoes;
         // zeroes=ones=twoes=0;
         // //step 1 : counting 
@@ -32,23 +31,41 @@ public:
         //     nums[i]=2;
         //     i++;
         // }
-        //In-place 3 Pointers approach
-        int l =0 ;
-        int m =0;
-        int h = nums.size()-1;
-        while (m<=h) {
-            if(nums[m] == 0) {
+        // Sol 2 : In-place 3 Pointers approach
+        // int l =0 ;
+        // int m =0;
+        // int h = nums.size()-1;
+        // while (m<=h) {
+        //     if(nums[m] == 0) {
+        //         swap(nums[l],nums[m]);
+        //         l++;m++;
+        //     }
+        //     else if(nums[m] == 1) {
+        //         m++;
+        //     }
+        //     else {
+        //         swap(nums[m],nums[h]);
+        //         h--;
+        //     }
+        // }
+
+        // Revision
+
+        int l=0,m=0;int h=nums.size()-1;
+        while(m<=h) {
+            if(nums[m]==0){
                 swap(nums[l],nums[m]);
-                l++;m++;
+                ++l;++m;
             }
-            else if(nums[m] == 1) {
-                m++;
+            else if(nums[m]==1) {
+                ++m;
             }
-            else {
+            else{
                 swap(nums[m],nums[h]);
-                h--;
+                --h;
             }
         }
+
     }
 };
 
