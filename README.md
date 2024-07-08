@@ -162,6 +162,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0048-rotate-image) |
 ## Matrix
 |  |
@@ -201,4 +202,12 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0287-find-the-duplicate-number) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
