@@ -139,6 +139,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0088-merge-sorted-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0948-sort-an-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0948-sort-an-array) |
@@ -160,6 +161,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1250-longest-common-subsequence) |
 ## Math
