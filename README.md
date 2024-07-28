@@ -176,6 +176,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | ------- |
 | [0002-add-two-numbers](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0062-unique-paths) |
 ## Matrix
 |  |
@@ -228,6 +229,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
