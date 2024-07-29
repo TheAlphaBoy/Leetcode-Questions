@@ -140,6 +140,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0088-merge-sorted-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0213-house-robber-ii) |
 | [0287-find-the-duplicate-number](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0287-find-the-duplicate-number) |
@@ -159,6 +160,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0056-merge-intervals](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -187,6 +189,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -207,6 +210,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0948-sort-an-array) |
 ## Binary Search
 |  |
@@ -243,4 +247,5 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | ------- |
 | [0141-linked-list-cycle](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
