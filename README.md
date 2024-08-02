@@ -155,6 +155,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0088-merge-sorted-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -232,12 +233,14 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0002-add-two-numbers](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -258,4 +261,8 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0560-subarray-sum-equals-k) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
