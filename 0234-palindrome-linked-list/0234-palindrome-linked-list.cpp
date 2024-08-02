@@ -31,7 +31,7 @@ public:
 
     // Sol 2 : Half ko reverse kardo and usko alag kardo linked list se and compare karo
     // TC => O(N)
-    // SC => O(1)
+    // SC => Auxilury Space O(1) , Recursion ka system space use kar rhe h jo ki O(N) h
 
     bool isPalindrome(ListNode* head) {
         if(head==NULL || head->next==NULL){
