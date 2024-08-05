@@ -246,6 +246,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0020-valid-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1250-longest-common-subsequence) |
 ## Combinatorics
 |  |
@@ -267,6 +268,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0234-palindrome-linked-list) |
