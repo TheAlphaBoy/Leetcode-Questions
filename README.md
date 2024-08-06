@@ -146,6 +146,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0229-majority-element-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0496-next-greater-element-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0948-sort-an-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0948-sort-an-array) |
 ## Two Pointers
@@ -260,6 +261,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0160-intersection-of-two-linked-lists](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -272,6 +274,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0225-implement-stack-using-queues](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -282,4 +285,8 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
