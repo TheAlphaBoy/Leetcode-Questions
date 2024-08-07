@@ -1,30 +1,14 @@
 class Solution {
 public:
     bool isValid(string s) {
-        stack<char> open;
-        unordered_map<char, char> parens = {
-            {')', '('},
-            {']', '['},
-            {'}', '{'},
-        };
-        
-        for (const auto& c : s) {
-            if (parens.find(c) != parens.end()) {
-                // if input starts with a closing bracket.
-                if (open.empty()) {
-                    return false;
-                }
-
-                if (open.top() != parens[c]) {
-                    return false;
-                }
-
-                open.pop();
-            } else {
-                open.push(c);
+        stack<int>st;
+        for( auto i:s){
+            if(i=='(' || i=='{' || i=='[') st.push(i);
+            else{
+                if(st.empty() || (st.top()=='(' && i!=')') || (st.top()=='{' && i!='}') || (st.top()=='[' && i!=']')) return false;
+                st.pop();
             }
         }
-        
-        return open.empty();
+        return st.empty();
     }
 };
