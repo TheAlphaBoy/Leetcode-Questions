@@ -156,6 +156,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0088-merge-sorted-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0287-find-the-duplicate-number) |
@@ -248,6 +249,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [1250-longest-common-subsequence](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1250-longest-common-subsequence) |
 ## Combinatorics
 |  |
