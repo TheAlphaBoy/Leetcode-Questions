@@ -184,6 +184,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0062-unique-paths) |
@@ -248,6 +249,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [1250-longest-common-subsequence](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1250-longest-common-subsequence) |
@@ -258,6 +260,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0160-intersection-of-two-linked-lists) |
