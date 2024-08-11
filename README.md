@@ -251,6 +251,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [1250-longest-common-subsequence](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1250-longest-common-subsequence) |
@@ -295,4 +296,8 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0496-next-greater-element-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
