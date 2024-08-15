@@ -249,6 +249,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0014-longest-common-prefix) |
@@ -262,6 +263,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0142-linked-list-cycle-ii) |
@@ -300,4 +302,8 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
