@@ -148,6 +148,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0300-longest-increasing-subsequence](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0496-next-greater-element-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0624-maximum-distance-in-arrays](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0948-sort-an-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0948-sort-an-array) |
 ## Two Pointers
 |  |
@@ -306,4 +307,8 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Greedy
+|  |
+| ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0624-maximum-distance-in-arrays) |
 <!---LeetCode Topics End-->
