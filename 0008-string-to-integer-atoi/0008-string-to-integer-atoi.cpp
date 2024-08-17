@@ -1,33 +1,16 @@
 class Solution {
-
-    long atoi(string s,int sign,int i,long result){
-    if(sign*result>=INT_MAX)
-    return INT_MAX;
-    else if(sign*result<=INT_MIN)
-    return INT_MIN;
-    else if(i>=s.size() || s[i]<'0' || s[i]>'9'){
-        return sign*result;
-    }
-    result=atoi(s,sign,i+1,(result*10+(s[i]-'0')));
-    return result;
-    }
-
 public:
     int myAtoi(string s) {
-
-        int i=0;int sign=1;
-        int n=s.size();
-        while(i<n && s[i]==' '){
-            ++i;
+        if (s.empty()) return 0;
+        int i = 0, sign = 1;
+        while (i + 1 < s.size() && isspace(s[i])) ++i;
+        long res = 0;
+        if (s[i] == '-' || s[i] == '+') sign = 44 - s[i++];
+        while (i < s.size()) {
+            if (isdigit(s[i])) res = 10 * res + s[i++] - '0';
+            else return res * sign;
+            if (res > INT_MAX) return sign == -1 ? INT_MIN : INT_MAX;
         }
-        if(s[i]=='-'){
-            sign=-1;
-            ++i;
-        }
-        else if(s[i]=='+'){
-            ++i;
-        }
-        return atoi(s,sign,i,0);
-        
+        return res * sign;
     }
 };
