@@ -150,6 +150,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0560-subarray-sum-equals-k](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0948-sort-an-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0948-sort-an-array) |
+| [1240-stone-game-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1240-stone-game-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -180,6 +181,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0198-house-robber](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0300-longest-increasing-subsequence) |
+| [1240-stone-game-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1240-stone-game-ii) |
 | [1250-longest-common-subsequence](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1250-longest-common-subsequence) |
 ## Math
 |  |
@@ -189,6 +191,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0048-rotate-image](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0062-unique-paths) |
+| [1240-stone-game-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1240-stone-game-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -277,6 +280,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [1240-stone-game-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1240-stone-game-ii) |
 ## Stack
 |  |
 | ------- |
@@ -311,4 +315,8 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0624-maximum-distance-in-arrays) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
