@@ -260,6 +260,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0020-valid-parentheses](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [1250-longest-common-subsequence](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1250-longest-common-subsequence) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -311,6 +312,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Greedy
 |  |
 | ------- |
