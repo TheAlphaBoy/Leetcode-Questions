@@ -149,6 +149,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0496-next-greater-element-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0624-maximum-distance-in-arrays) |
+| [0906-walking-robot-simulation](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0906-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0948-sort-an-array) |
 | [1240-stone-game-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1240-stone-game-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -280,6 +281,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0229-majority-element-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0906-walking-robot-simulation](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0906-walking-robot-simulation) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -327,5 +329,6 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0906-walking-robot-simulation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
