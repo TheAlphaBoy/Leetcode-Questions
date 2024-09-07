@@ -63,40 +63,85 @@ public:
 
     // Sol 3 : Using only 1 stack TC = O(2N) & SC = O(N)
 
-    vector<int> postorderTraversal(TreeNode* root) {
+    // vector<int> postorderTraversal(TreeNode* root) {
 
+    //     vector<int>postorder;
+    //     // Edge case
+    //     if(root==NULL){
+    //         return postorder;
+    //     }
+
+    //     stack<TreeNode*>s;
+    //     TreeNode* curr=root;
+    //     while(!s.empty() || curr!=NULL){
+    //         if(curr!=NULL){
+    //             s.push(curr);
+    //             curr = curr->left;
+    //         }
+    //         else{
+    //             TreeNode* temp=s.top()->right;
+    //             if(temp==NULL){
+    //                 temp=s.top();
+    //                 s.pop();
+    //                 postorder.push_back(temp->val);
+    //                 while(!s.empty() && temp==s.top()->right){
+    //                     temp=s.top();
+    //                     s.pop();
+    //                     postorder.push_back(temp->val);
+    //                 }
+    //             }
+    //             else{
+    //                 curr=temp;
+    //             }
+    //         }
+    //     }
+    //     return postorder;
+    // }
+
+    // Revision :
+
+    vector<int> postorderTraversal(TreeNode* root) {
         vector<int>postorder;
         // Edge case
-        if(root==NULL){
+        if(root == NULL){
             return postorder;
         }
-
-        stack<TreeNode*>s;
-        TreeNode* curr=root;
-        while(!s.empty() || curr!=NULL){
-            if(curr!=NULL){
-                s.push(curr);
-                curr = curr->left;
+        stack<TreeNode*>s1,s2;
+        s1.push(root);
+        while(!s1.empty()){
+            TreeNode* topnode = s1.top();
+            s1.pop();
+            s2.push(topnode);
+            if(topnode->left!=NULL){
+                s1.push(topnode->left);
             }
-            else{
-                TreeNode* temp=s.top()->right;
-                if(temp==NULL){
-                    temp=s.top();
-                    s.pop();
-                    postorder.push_back(temp->val);
-                    while(!s.empty() && temp==s.top()->right){
-                        temp=s.top();
-                        s.pop();
-                        postorder.push_back(temp->val);
-                    }
-                }
-                else{
-                    curr=temp;
-                }
+            if(topnode->right!=NULL){
+                s1.push(topnode->right);
             }
         }
+        while(!s2.empty()){
+            postorder.push_back(s2.top()->val);
+            s2.pop();
+        }
         return postorder;
-
     }
-
 };
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
