@@ -336,15 +336,18 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
