@@ -179,6 +179,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0062-unique-paths](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0213-house-robber-ii) |
@@ -337,12 +338,14 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -350,6 +353,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
