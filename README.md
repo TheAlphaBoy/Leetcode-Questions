@@ -337,6 +337,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -352,6 +353,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -360,4 +362,5 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 <!---LeetCode Topics End-->
