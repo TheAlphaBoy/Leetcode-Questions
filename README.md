@@ -271,6 +271,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0151-reverse-words-in-a-string](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [1250-longest-common-subsequence](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1250-longest-common-subsequence) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Combinatorics
 |  |
@@ -289,6 +290,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0496-next-greater-element-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0906-walking-robot-simulation) |
+| [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Prefix Sum
 |  |
@@ -327,6 +329,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Greedy
 |  |
