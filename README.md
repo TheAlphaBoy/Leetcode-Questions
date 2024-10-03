@@ -154,6 +154,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0906-walking-robot-simulation](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0906-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0948-sort-an-array) |
 | [1240-stone-game-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1240-stone-game-ii) |
+| [1694-make-sum-divisible-by-p](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1694-make-sum-divisible-by-p) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Two Pointers
 |  |
@@ -290,6 +291,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0496-next-greater-element-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0906-walking-robot-simulation) |
+| [1694-make-sum-divisible-by-p](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1694-make-sum-divisible-by-p) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Prefix Sum
@@ -297,6 +299,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1240-stone-game-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1240-stone-game-ii) |
+| [1694-make-sum-divisible-by-p](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1694-make-sum-divisible-by-p) |
 ## Stack
 |  |
 | ------- |
