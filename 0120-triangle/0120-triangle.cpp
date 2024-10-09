@@ -13,9 +13,9 @@ public:
                         else{                            
                             triangle[i + 1][k] = triangle[i + 1][k] + min(triangle[i][k - 1], triangle[i][k]);                            
                         }                       
-                    }                    
+                    }                  
                 }                
-            }            
-            return *min_element(triangle[triangle.size() - 1].begin(), triangle[triangle.size() - 1].end());
+        }           
+        return *min_element(triangle[triangle.size() - 1].begin(), triangle[triangle.size() - 1].end());
     }
 };
