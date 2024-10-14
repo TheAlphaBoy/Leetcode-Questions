@@ -156,6 +156,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [1240-stone-game-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1240-stone-game-ii) |
 | [1694-make-sum-divisible-by-p](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1694-make-sum-divisible-by-p) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -218,6 +219,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0948-sort-an-array) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Merge Sort
 |  |
 | ------- |
@@ -342,6 +344,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0624-maximum-distance-in-arrays) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Game Theory
 |  |
 | ------- |
