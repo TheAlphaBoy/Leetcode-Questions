@@ -1,15 +1,29 @@
 class Solution {
 public:
     vector<int> minBitwiseArray(vector<int>& nums) {
-        vector<int>ans(nums.size(),-1);
+         int n = nums.size();
 
-        for(int i=0;i<nums.size();i++){
-            int num=nums[i];
-            for(int j=1;j<num;j++){
-                int check=j|(j+1);
-                if(check==num){ans[i]=j;break;}
+        vector<int> ans(n, -1);
+
+        for(int i = 0; i < n; i++){
+            int num = nums[i];
+            if(num == 2) continue;
+
+            ans[i] = solve(num);
+        }
+
+        return ans;
+    }
+      int solve(int num){
+        int best = num;
+
+        for(int i = 0; i < 31; i++){
+            int p = 1 << i;
+            if (((num - p) | ((num - p) + 1)) == num) {
+                best = min(best, num - p);
             }
         }
-        return ans;
+
+        return best;
     }
 };
