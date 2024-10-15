@@ -157,6 +157,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [1694-make-sum-divisible-by-p](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1694-make-sum-divisible-by-p) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -249,6 +250,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0476-number-complement) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Linked List
 |  |
 | ------- |
