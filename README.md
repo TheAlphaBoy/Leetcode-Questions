@@ -278,6 +278,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0567-permutation-in-string](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0567-permutation-in-string) |
 | [1250-longest-common-subsequence](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2580-circular-sentence](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/2580-circular-sentence) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
