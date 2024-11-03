@@ -276,6 +276,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0020-valid-parentheses](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0567-permutation-in-string](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/2580-circular-sentence) |
@@ -388,4 +389,8 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
