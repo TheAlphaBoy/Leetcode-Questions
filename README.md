@@ -283,6 +283,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/3572-count-substrings-that-can-be-rearranged-to-contain-a-string-ii) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3617-find-the-original-typed-string-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/3617-find-the-original-typed-string-i) |
 ## Combinatorics
 |  |
 | ------- |
