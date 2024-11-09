@@ -250,6 +250,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0476-number-complement) |
+| [3394-minimum-array-end](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/3394-minimum-array-end) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Linked List
 |  |
