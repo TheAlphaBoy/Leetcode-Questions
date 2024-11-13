@@ -157,6 +157,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [1694-make-sum-divisible-by-p](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1694-make-sum-divisible-by-p) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Two Pointers
 |  |
@@ -170,6 +171,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0234-palindrome-linked-list](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0567-permutation-in-string) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -179,6 +181,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0169-majority-element](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0229-majority-element-ii) |
 | [0948-sort-an-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0948-sort-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -245,6 +248,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0074-search-a-2d-matrix](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0300-longest-increasing-subsequence) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
