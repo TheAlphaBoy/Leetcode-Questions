@@ -151,6 +151,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0496-next-greater-element-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0624-maximum-distance-in-arrays) |
+| [0780-max-chunks-to-make-sorted](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0906-walking-robot-simulation](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0906-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0948-sort-an-array) |
 | [1240-stone-game-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/1240-stone-game-ii) |
@@ -180,6 +181,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0088-merge-sorted-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0229-majority-element-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0948-sort-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Dynamic Programming
@@ -325,6 +327,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0232-implement-queue-using-stacks](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0496-next-greater-element-i) |
+| [0780-max-chunks-to-make-sorted](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 ## Design
 |  |
 | ------- |
@@ -339,6 +342,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0496-next-greater-element-i) |
+| [0780-max-chunks-to-make-sorted](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 ## Trie
 |  |
 | ------- |
@@ -355,6 +359,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0624-maximum-distance-in-arrays](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0624-maximum-distance-in-arrays) |
+| [0780-max-chunks-to-make-sorted](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Game Theory
 |  |
