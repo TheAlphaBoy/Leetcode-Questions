@@ -136,6 +136,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0056-merge-intervals](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0088-merge-sorted-array) |
@@ -214,6 +215,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0048-rotate-image](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0074-search-a-2d-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Divide and Conquer
@@ -300,6 +302,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0160-intersection-of-two-linked-lists) |
