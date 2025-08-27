@@ -140,6 +140,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0074-search-a-2d-matrix](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0152-maximum-product-subarray) |
@@ -191,6 +192,7 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 | [0062-unique-paths](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0064-minimum-path-sum) |
+| [0118-pascals-triangle](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
