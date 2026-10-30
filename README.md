@@ -409,4 +409,8 @@ In this Repository i have added Leetcode questions that i have solved on Leetcod
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/TheAlphaBoy/Leetcode-Easy-Questions/tree/master/0812-rotate-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TheAlphaBoy/Leetcode-Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
